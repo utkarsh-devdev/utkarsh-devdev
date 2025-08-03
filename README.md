@@ -71,7 +71,7 @@ Here are some of my projects and contributions that I'm proud of:
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/utkarsh-pandey-92b942292/)  
-[![Email](https://img.shields.io/badge/-utkarsh@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:utkarshpandey0214@gmail.com)
+[![Email](https://img.shields.io/badge/-utkarshpandey0214@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:utkarshpandey0214@gmail.com)
 
 ---
 
